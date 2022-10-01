@@ -1,1 +1,40 @@
+body {
+    background-color: black;
+    color: oldlace;
+    max width: 900 px;
+    margin: auto;
+}
 
+header {
+    margin: 35px 0;
+    font-size: 20px;
+}
+
+h1 {
+    color: hotpink;
+}
+
+section.jumbotron {
+    text-align: center;
+    background-image: url("https://i.pinimg.com/736x/f3/39/6b/f3396bb3cf29368cef27453cb63bf079.jpg")
+    padding: 50px 0 100px;
+    font-size: 50px;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+section h2 {
+    color:orchid
+}
+
+aside nav a {
+    display: block;
+    text-align: center;
+}
+
+footer{
+    margin: 50px 0;
+    text-align: center;
+}
